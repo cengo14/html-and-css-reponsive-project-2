@@ -23,13 +23,13 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 1. **Depoyu klonlayın:**
 
    ```bash
-   git clone https://github.com/cengo14/bootstrap-responsive-website-project-
+   git clone https://github.com/cengo14/html-and-css-reponsive-project-2
    ```
 
 2. **Proje dizinine gidin:**
 
    ```bash
-   cd bootstrap-responsive-website-project-
+   cd html-and-css-reponsive-project-2
    ```
 
 3. **index.html** dosyasını tarayıcınızda açın.
